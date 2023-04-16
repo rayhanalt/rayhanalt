@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayhanalt
 - 👀 I’m interested in IT Dev
 - 🌱 I’m currently learning Flutter Framework
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me rayhanalthaf76@gmail.com
 
 <!---
